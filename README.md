@@ -3,7 +3,7 @@ This repository provides latest source code for BlogEngine.NET project (https://
 
 ## Environment
   * Visual Studio 2015 Community +
-  * ASP.NET 4.5 +
+  * ASP.NET 4.5 ++
 
 ## Get started
   1. Clone repository
